@@ -1,4 +1,4 @@
-class Node {
+class LinkedList  {
 
     private String data;
     private Node next;

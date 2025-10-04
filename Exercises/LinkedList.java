@@ -2,7 +2,7 @@ import java.util.List;
 import java.util.LinkedList;
 import java.util.Collections;
 
-class Tester {
+class LinkedList {
 
     public static List<Object> concatenateLists(List<Object> listOne, List<Object> listTwo) {
         List<Object> concatenatedList = new LinkedList<Object>();

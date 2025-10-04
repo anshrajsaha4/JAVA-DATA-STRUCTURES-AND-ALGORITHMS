@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.ArrayList;
 
-class Order {
+class ArrayList {
 	private int orderId;
 	private List<String> itemNames;
 	private boolean cashOnDelivery;

@@ -1,7 +1,7 @@
 import java.util.ArrayList; 
 import java.util.List;
 
-class Participant {
+class ArrayList {
     private String participantName;
     private String participantTalent;
     private double participantScore;

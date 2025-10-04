@@ -1,4 +1,4 @@
-class Tester {
+class LinearSearch {
 	
 	public static int searchElement(int[] elements, int elementToBeSearched) {
 		for (int i = 0; i < elements.length; i++) {

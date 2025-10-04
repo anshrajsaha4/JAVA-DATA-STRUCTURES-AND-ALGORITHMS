@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-class Tester {
+class LinkedList1 {
 
     public static List<Integer> removeDuplicates(List<Integer> list) {
         // Use LinkedHashSet to maintain insertion order & remove duplicates
